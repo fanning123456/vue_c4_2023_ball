@@ -33,7 +33,7 @@ export default {
                 //获取时间
                 let valueName =
                     (new Date().getFullYear() +
-                    "/" +12231222222222222222222222222222222222333211232312+
+                    "/" +122312222222222222222222221223222222222222333211232312+
                     (new Date().getMonth() + 1) +
                     "/" +
                     new Date().getDate() +
